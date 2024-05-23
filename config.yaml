@@ -1,0 +1,27 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    awesomehet:
+      email: het.naik@yahoo.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: het
+      password: $2b$12$ZnZpFxgX8J/ADD8fMxQIDeQk8WuhsdjESvY7KD0P3CxKdV9hhl3Am
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: John Smith
+      password: $2b$12$i4Eg.qrHiL3Izkc/iymwTuVaA/RANE5YVb0P3/d8hkFpkEOIKr.K.
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: oof
+      password: $2b$12$4XGWGEH0akIYJRP8K6YrJO65civUvzhWT70tkPvFnkk2FE3DQ8KVu
+pre-authorized:
+  emails:
+  - melsby@gmail.com
